@@ -14,7 +14,7 @@
 ## Implementation:
 1. Frontend:
     - Mobile application written in Kotlin/C#(Xamarin)
-    - Minimal usable UI
+    - Simple, intuitive UI
 2. Backend:
     - C#/Python based (not sure yet)
     - Storage implemented in some NoSQL database (MongoDB?) or maybe Entity Framework with SQL database in case of C#
